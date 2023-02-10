@@ -14,8 +14,8 @@ Hola ticos🤙 sou o Iokio Cainã, e esse é meu perfil de estudos🤓
 
 𝗖𝗟𝗜𝗤𝗨𝗘 𝗔𝗤𝗨𝗜 ➡️ https://static.mundodasmensagens.com/upload/textos/j/e/jesus-te-ama-e-ja-provou-esse-amor-ha-muito-tempo-por-isso-sorria-3A2Mg-cxl.jpg
 
+𝐂𝐋𝐈𝐐𝐔𝐄 𝐀𝐐𝐔𝐈➡️ https://www.42frases.com.br/wp-content/uploads/2021/07/jesus-nao-se-importa.png
+
+ ❤️ ❤️ ❤️
 
 
-
- 
-/home/aluno/Documentos/JESUS TE AMA <3.docx
