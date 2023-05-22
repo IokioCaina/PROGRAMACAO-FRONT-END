@@ -1,0 +1,20 @@
+header{
+    background-image: linear-gradient(to right, rgb(136, 164, 154), rgb(7, 38, 18));
+    padding: 20px;
+}
+
+#logo{
+    border-radius: 30px;
+}
+
+.titulo-principal{
+    position: absolute;
+    font-family: 'Ananda', sem serifa;
+    top: 18%;
+    left: 50%;
+    transform: translate(-30%, -15%);
+    font-size: 50px;
+    color: white;
+
+    
+}
