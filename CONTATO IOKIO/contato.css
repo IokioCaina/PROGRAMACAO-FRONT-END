@@ -1,0 +1,95 @@
+header{
+    background-image: linear-gradient(to right, rgb(136, 164, 154), rgb(7, 38, 18));
+    padding: 20px;
+}
+
+#logo{
+    border-radius: 30px;
+}
+
+.titulo-principal{
+    position: absolute;
+    font-family: 'Ananda', sem serifa;
+    top: 13%;
+    left: 48%;
+    transform: translate(-30%, -15%);
+    font-size: 50px;
+    color: white;
+
+    
+}
+
+main{
+    width: 940px;
+    margin: auto;
+}
+
+form{
+    margin: 40px 0 ;/*margem superior e inferior de 40px, para os lados 0*/
+}
+
+form label, form p{
+    /*Vamos resplicar a mesma configuração do form label para o parágrafo, por isso, o uso da vírgula*/
+
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;/* 10px para baixo*/
+}
+
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;/*para baixo*/
+    padding: 10px 25px; /*largura dos meus inputs*/
+    
+}
+
+.checkbox{
+    margin: 20px 0; /*20 px p/ cima e p/baixo e zero nas laterais*/
+    
+}
+
+.enviar{
+    width: 350px;
+    padding: 15px 0;
+    background-color: rgb(17, 75, 56);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1.0s all;
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background:rgb(17, 75, 56) ;
+    transform: scale(1.2);
+}
+
+body{
+    background-image: url(Untitled\ Project.jpg);
+    background-position: 500px;
+   
+
+}
+
+.copyright{
+    color: white;
+    font-size: 18px;
+    margin: 10px 0 0 ;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(71, 98, 79);
+    padding: 15px 0 0;
+}
+
+fieldset{
+    background-color: rgba(28, 45, 36, 0.779);
+    border-radius: 10px;
+    
+}
+
+
+
