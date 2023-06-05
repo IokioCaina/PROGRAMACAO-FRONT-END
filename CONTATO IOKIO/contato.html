@@ -2,6 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="reset(1).css">
     <link rel="stylesheet" href="contato.css">
     <link rel="stylesheet" href="Ananda Personal Use.ttf">
     <title>Contato</title>
@@ -13,9 +14,9 @@
 
         <nav> 
             <ul>
-                <li>Home</li>
-                <li>Produtos</li>
-                <li>Contatos</li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="contato.html">Contatos</a></li>
             </ul>
        </nav>
     </header>
@@ -34,7 +35,7 @@
 
             <label for="mensagem">mensagem</label>
             <textarea cols="70" rows="10" id="mensagem" placeholder="Digite seu texto aqui!" required></textarea>
-
+            <br>
             <section>
                 <p>Como prefere nosso contato?</p>
                 <label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">Email</label>
@@ -43,6 +44,7 @@
 
                 <label for="radio-whatsapp"><input type="radio" name="contato" value="whatsapp" id="radio-whatsapp" checked>Whatsapp</label>
             </section>
+            <br>
 
             <section>
 
@@ -54,11 +56,15 @@
                 <!--dropdown - seleções selecionáveis-->
                 </select>
 
+                <br>
+
                 <label class="checkbox">
                 <input type="checkbox">Gostaria de receber nossas novidades por email?
                 </label>
 
-                <input type="submit" value="Enviar Formulário" class="enviar">
+            
+            
+            <input type="submit" value="Enviar Formulário" class="enviar">
 
             </section>
             </fieldset>
