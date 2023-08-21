@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: gray;
+    color: white;
+    
+}
+
+.principal{
+    margin-left: 660px;
+    margin-top: 0px;
+    height: auto;
+    width: 500px;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.384);
+    
+}
+
+legend{
+    text-align: center;
+    text-shadow: -3px 2px black;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-bottom: 5%;
+    background: rgb(23, 23, 80);
+    border-radius: 4px;
+    width: 30%;
+}
+
+input{
+    text-align: left;
+    background: rgba(20, 22, 138, 0.562);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+   
+    border-color: blue;
+    border-style: solid;
+    
+    
+}
+
+.periodo{
+    width: 20px;
+    margin-left: 20px;
+    margin-top: 0px;
+    
+    
+}
+
+.contra{
+    width: 10px;
+    margin-left: 5px;
+    margin-top: 0px;
+    
+}
+
+img{
+    margin-left: 100px;
+}
+
