@@ -1,0 +1,57 @@
+*{text-align: center;}
+
+
+
+.cabeca{ background: yellow;}
+
+.first{ background: blueviolet;
+                    color: white;}
+
+.two{ background: blue;
+    color: white;}
+
+.three{ background: yellow;}
+
+.four{ background: blue;
+    color: white;}
+    
+.fim{ background: blueviolet;
+    color: white;}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(135, 137, 137);
+}
+
+table{
+    width: 800px;
+    height: 400px;
+}
+
+.name{
+    color: red;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a{
+    color: blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.b{
+    color: coral;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.c{
+    color: darkgreen;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nf{
+    color: darkturquoise;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
